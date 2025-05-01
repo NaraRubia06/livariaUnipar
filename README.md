@@ -1,7 +1,7 @@
 # livariaUnipar
 Livraria Spring
 
-Objetivo: Implementar a entidade Autor e seu relacionamento com a entidade Livro já criada, utilizando o Spring Boot. Você deverá criar um CRUD completo para a gestão de autores e livros, e um endpoint adicional que traga todos os autores juntamente com os livros que eles escreveram.
+Objetivo: Implementar a entidade Autor e seu relacionamento com a entidade Livro já criada, utilizando o Spring Boot deverá criar um CRUD completo para a gestão de autores e livros, e um endpoint adicional que traga todos os autores juntamente com os livros que eles escreveram.
 
 Endpoints CRUD para Autor e Livro:
 
